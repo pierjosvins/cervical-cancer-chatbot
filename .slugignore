@@ -1,5 +1,3 @@
-*.pyc
-staticfiles
 *.psd
 *.pdf
 /test
